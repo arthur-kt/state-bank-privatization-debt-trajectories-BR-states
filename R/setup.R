@@ -1,0 +1,15 @@
+# Load shared settings and packages. An optional local library stays untracked.
+if (dir.exists(".R-library")) .libPaths(c(normalizePath(".R-library"), .libPaths()))
+external_library <- Sys.getenv("STATE_BANK_R_LIBRARY")
+if (nzchar(external_library)) .libPaths(c(external_library, .libPaths()))
+source("config/settings.R", local = TRUE)
+set.seed(cfg$seed)
+suppressPackageStartupMessages({
+  library(tidyverse)
+  library(readxl)
+  library(jsonlite)
+  library(fixest)
+  library(broom)
+  library(scales)
+})
+dir.create("outputs", showWarnings = FALSE)
