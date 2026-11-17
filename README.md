@@ -121,22 +121,23 @@ model objects, package libraries, session files and generated outputs are
 excluded by `.gitignore` and can be recreated. Exact URLs are recorded in
 `config/data_sources.csv`; preparation writes file checksums to
 `data/raw/source_manifest.csv`. Package versions used for verification are in
-`docs/package_versions.csv`. No repository has been published or pushed.
+`docs/package_versions.csv`.
+
+Repository: [arthur-kt/state-bank-privatization-debt-trajectories-BR-states](https://github.com/arthur-kt/state-bank-privatization-debt-trajectories-BR-states).
 
 ## Git and GitHub workflow
 
 Run these commands in a terminal (RStudio's **Terminal** tab, PowerShell or Git Bash).
-Git must be installed. Replace `OWNER` and `REPOSITORY` with the actual GitHub
-account or organization and repository name. The examples assume the default
-branch is called `main`.
+Git must be installed. The commands below use this project's repository URL
+and assume the default branch is called `main`.
 
 ### Clone the repository
 
-Once the repository is available on GitHub, download a working copy:
+Download a working copy:
 
 ```bash
-git clone https://github.com/OWNER/REPOSITORY.git state-banks-debt
-cd state-banks-debt
+git clone https://github.com/arthur-kt/state-bank-privatization-debt-trajectories-BR-states.git
+cd state-bank-privatization-debt-trajectories-BR-states
 ```
 
 Open `state-banks-debt.Rproj` and follow **Run the project** above. Cloning brings
@@ -230,3 +231,23 @@ Edit them to retain the intended code and remove the conflict markers
 file with `git add path/to/file`, and finish the merge with `git commit`.
 Use `git push` when the merge is complete. To cancel an unfinished merge instead,
 use `git merge --abort`.
+
+### Check the remote repository
+
+Cloning automatically configures `origin`. Check its address with:
+
+```bash
+git remote -v
+```
+
+If an existing local Git repository has no `origin`, connect it with:
+
+```bash
+git remote add origin https://github.com/arthur-kt/state-bank-privatization-debt-trajectories-BR-states.git
+```
+
+If `origin` already exists but points to another address, update it instead:
+
+```bash
+git remote set-url origin https://github.com/arthur-kt/state-bank-privatization-debt-trajectories-BR-states.git
+```
