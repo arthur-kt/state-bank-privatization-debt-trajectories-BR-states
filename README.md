@@ -122,3 +122,111 @@ excluded by `.gitignore` and can be recreated. Exact URLs are recorded in
 `config/data_sources.csv`; preparation writes file checksums to
 `data/raw/source_manifest.csv`. Package versions used for verification are in
 `docs/package_versions.csv`. No repository has been published or pushed.
+
+## Git and GitHub workflow
+
+Run these commands in a terminal (RStudio's **Terminal** tab, PowerShell or Git Bash).
+Git must be installed. Replace `OWNER` and `REPOSITORY` with the actual GitHub
+account or organization and repository name. The examples assume the default
+branch is called `main`.
+
+### Clone the repository
+
+Once the repository is available on GitHub, download a working copy:
+
+```bash
+git clone https://github.com/OWNER/REPOSITORY.git state-banks-debt
+cd state-banks-debt
+```
+
+Open `state-banks-debt.Rproj` and follow **Run the project** above. Cloning brings
+the versioned code and metadata; the R preparation script downloads the data.
+Team members need write access to push branches to this repository.
+
+Set your commit identity once, using your own name and email:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+```
+
+### Update main and create a branch
+
+Start each task from an updated `main`. Commit any current work before switching
+branches or merging changes.
+
+```bash
+git switch main
+git pull --ff-only origin main
+git switch -c feature/update-eda
+```
+
+Use a short branch name describing the task, such as `feature/update-eda` or
+`fix/event-dates`. A branch keeps your changes separate until they are reviewed.
+`pull --ff-only` updates the branch without creating an automatic merge commit;
+if it reports diverging histories, inspect the differences before proceeding.
+
+### Review, commit and push changes
+
+After editing the files and running the relevant R scripts:
+
+```bash
+git status
+git diff
+git add .
+git diff --cached
+git commit -m "Update exploratory analysis"
+git push -u origin feature/update-eda
+```
+
+`git add .` stages changes under the current directory, including deletions.
+Check `git diff --cached` before committing. The project's `.gitignore` excludes
+downloaded data, generated outputs and the local R package library.
+The first push uses `-u` to link your branch to its remote counterpart. For later
+commits on that branch, use `git push`.
+
+### Bring changes from main into your branch
+
+With your own work committed, update the remote references and merge the latest
+shared changes into your working branch:
+
+```bash
+git switch feature/update-eda
+git fetch origin
+git merge origin/main
+```
+
+Run the affected scripts again, then use `git push` to upload the updated branch.
+`fetch` downloads remote history without changing your files; `merge` combines
+that history with the current branch. To download commits pushed by someone else
+to the same working branch, use `git pull --ff-only` while on that branch.
+
+### Merge a completed branch
+
+For teamwork, open a **Pull Request** on GitHub with `main` as the base and your
+working branch as the comparison. Summarize the changes and checks, ask a teammate
+to review, and merge after review. Then update your local copy:
+
+```bash
+git switch main
+git pull --ff-only origin main
+```
+
+If the team agrees to merge locally and direct pushes to `main` are allowed,
+the equivalent terminal workflow is:
+
+```bash
+git switch main
+git pull --ff-only origin main
+git merge feature/update-eda
+git push origin main
+```
+
+### Resolve a merge conflict
+
+If a merge stops with conflicts, use `git status` to find the affected files.
+Edit them to retain the intended code and remove the conflict markers
+(`<<<<<<<`, `=======` and `>>>>>>>`). Run the relevant checks, stage each resolved
+file with `git add path/to/file`, and finish the merge with `git commit`.
+Use `git push` when the merge is complete. To cancel an unfinished merge instead,
+use `git merge --abort`.
