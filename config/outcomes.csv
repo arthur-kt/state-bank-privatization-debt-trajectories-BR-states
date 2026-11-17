@@ -1,0 +1,7 @@
+name,label,multiplier,display_unit
+debt_to_gdp,Financial debt / GDP,100,Percentage points
+union_debt_to_gdp,Federal government debt / GDP,100,Percentage points
+log_debt_to_gdp,Log financial debt / GDP,100,Log points multiplied by 100
+log_financial_debt,Log nominal financial debt,100,Log points multiplied by 100
+annual_log_debt_change_percent,Annual log debt growth,1,Percentage points of growth
+annual_change_debt_to_gdp_pp,Annual change in debt / GDP,1,Percentage points of change

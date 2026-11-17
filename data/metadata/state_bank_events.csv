@@ -1,0 +1,28 @@
+state_code,main_bank,event_type,event_year,event_date_precision,loss_of_control,event_note,event_date,first_full_treatment_year,event_source
+AC,BANACRE,liquidation,1999,year,1,State bank extinguished and replaced by a development agency.,NA,2000,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+AL,PRODUBAN,liquidation,1997,day,1,Extrajudicial liquidation.,1997-07-22,1998,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+AM,BEA,federalization,1999,year,1,State control transferred to the federal government before the 2002 auction.,NA,2000,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+AP,BANAP,liquidation,1999,day,1,Ordinary liquidation and creation of a development agency.,1999-07-28,2000,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+BA,BANEB,direct_sale,1999,day,1,Direct privatization by the state.,1999-06-22,2000,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf | https://www.bcb.gov.br/lid/gedes/receitasPrivatizacaodolares.ASP?frame=1&id=
+CE,BEC,federalization,1999,year,1,State control transferred to the federal government.,NA,2000,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+DF,BRB,retained,NA,not_applicable,0,State-owned commercial bank retained.,NA,NA,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+ES,BANESTES,retained,NA,not_applicable,0,State-owned commercial bank retained.,NA,NA,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+GO,BEG,federalization,1999,year,1,State control transferred to the federal government before the 2001 auction.,NA,2000,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+MA,BEM,federalization,2000,month,1,Federalization occurred in July 2000.,NA,2001,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+MG,CREDIREAL / BEMGE,direct_sale,1998,day,1,BEMGE sale marks the final direct sale after CREDIREAL was sold in 1997.,1998-09-14,1999,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf | https://www.bcb.gov.br/lid/gedes/receitasPrivatizacaodolares.ASP?frame=1&id=
+MS,NA,no_comparable_event,NA,not_applicable,0,The state did not establish a comparable state bank.,NA,NA,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+MT,BEMAT,liquidation,1998,day,1,Extrajudicial liquidation.,1998-01-28,1999,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+PA,BANPARA,retained,NA,not_applicable,0,State-owned commercial bank retained.,NA,NA,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+PB,PARAIBAN,direct_sale,2001,day,1,Direct privatization outside PROES.,2001-11-08,2002,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf | https://www.bcb.gov.br/lid/gedes/receitasPrivatizacaodolares.ASP?frame=1&id=
+PE,BANDEPE,direct_sale,1998,day,1,Direct privatization by the state.,1998-11-17,1999,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf | https://www.bcb.gov.br/lid/gedes/receitasPrivatizacaodolares.ASP?frame=1&id=
+PI,BEP,federalization,2000,year,1,State control transferred to the federal government.,NA,2001,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+PR,BANESTADO,direct_sale,2000,day,1,Direct privatization by the state.,2000-10-17,2001,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf | https://www.bcb.gov.br/lid/gedes/receitasPrivatizacaodolares.ASP?frame=1&id=
+RJ,BANERJ,direct_sale,1997,day,1,Direct privatization after federal intervention.,1997-06-26,1998,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf | https://www.bcb.gov.br/lid/gedes/receitasPrivatizacaodolares.ASP?frame=1&id=
+RN,BANDERN / BDRN,liquidation,2000,day,1,Ordinary liquidation and creation of a development agency.,2000-01-20,2001,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+RO,BERON,liquidation,1998,day,1,Ordinary liquidation after temporary special administration.,1998-08-14,1999,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+RR,BANER,liquidation,1999,day,1,State bank extinguished and replaced by a development agency.,1999-04-08,2000,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+RS,BANRISUL,retained,NA,not_applicable,0,State-owned commercial bank retained.,NA,NA,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+SC,BESC,federalization,2000,day,1,Control transferred to the federal government.,2000-08-30,2001,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+SE,BANESE,retained,NA,not_applicable,0,State-owned commercial bank retained.,NA,NA,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+SP,BANESPA,federalization,1997,day,1,BANESPA was the state's principal bank and state control ended in 1997. Sao Paulo retained Nossa Caixa until its transfer to Banco do Brasil in 2009; that later event should be used as a robustness alternative.,1997-12-26,1998,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf
+TO,NA,no_comparable_event,NA,not_applicable,0,The state did not establish a comparable state bank.,NA,NA,https://www.bcb.gov.br/htms/public/BancosEstaduais/livro_bancos_estaduais.pdf

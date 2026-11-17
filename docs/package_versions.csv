@@ -1,0 +1,11 @@
+package,version
+tidyverse,2.0.0
+readxl,1.5.0
+jsonlite,2.0.0
+fixest,0.14.2
+broom,1.0.13
+scales,1.4.0
+stringi,1.8.9
+HonestDiD,0.2.8
+Synth,1.1.10
+synthdid,0.0.9

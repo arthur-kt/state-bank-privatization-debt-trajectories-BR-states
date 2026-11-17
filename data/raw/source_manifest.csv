@@ -1,0 +1,6 @@
+source_id,provider,format,path,url,md5
+treasury,National Treasury,csv,data/raw/treasury/relatorio-estoque-final.csv,https://www.tesourotransparente.gov.br/ckan/dataset/0e763dcf-c7f9-4928-aa3d-61318de7141f/resource/f9a981c0-6281-43b2-9238-5270eacd4a77/download/relatorio-estoque-final.csv,1592f99713b0298c546e457955ad467a
+ibge_gdp,IBGE reference 2002,zip,data/raw/ibge/tab01_serie_xls.zip,https://ftp.ibge.gov.br/Contas_Regionais/2012/serie_xls/tab01_serie_xls.zip,be4b75195f3c0b2e53be68c810792e8d
+ibge_shares,IBGE reference 2002,zip,data/raw/ibge/tab02_serie_xls.zip,https://ftp.ibge.gov.br/Contas_Regionais/2012/serie_xls/tab02_serie_xls.zip,ad57811d54be3cc4050b1dce10f392d5
+ifdata_summary,Central Bank IF.data,ifdata,data/raw/bcb_ifdata/ifdata_summary_1996_12.csv,https://www3.bcb.gov.br/ifdata/rest/arqleg?nomeArquivo=199612%2FTop501996120P.txt,7248d02af8a117888db0f7fec796e3fc
+ifdata_assets,Central Bank IF.data,ifdata,data/raw/bcb_ifdata/ifdata_assets_1996_12.csv,https://www3.bcb.gov.br/ifdata/rest/arqleg?nomeArquivo=199612%2FTop501996121P.txt,31f6b7eb62053936a7a250ca4d1e4da9

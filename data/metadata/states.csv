@@ -1,0 +1,28 @@
+state_code,state_name,ibge_state_name,region
+AC,Acre,Acre,North
+AL,Alagoas,Alagoas,Northeast
+AM,Amazonas,Amazonas,North
+AP,Amapa,Amapá,North
+BA,Bahia,Bahia,Northeast
+CE,Ceara,Ceará,Northeast
+DF,Federal District,Distrito Federal,Central-West
+ES,Espirito Santo,Espírito Santo,Southeast
+GO,Goias,Goiás,Central-West
+MA,Maranhao,Maranhão,Northeast
+MG,Minas Gerais,Minas Gerais,Southeast
+MS,Mato Grosso do Sul,Mato Grosso do Sul,Central-West
+MT,Mato Grosso,Mato Grosso,Central-West
+PA,Para,Pará,North
+PB,Paraiba,Paraíba,Northeast
+PE,Pernambuco,Pernambuco,Northeast
+PI,Piaui,Piauí,Northeast
+PR,Parana,Paraná,South
+RJ,Rio de Janeiro,Rio de Janeiro,Southeast
+RN,Rio Grande do Norte,Rio Grande do Norte,Northeast
+RO,Rondonia,Rondônia,North
+RR,Roraima,Roraima,North
+RS,Rio Grande do Sul,Rio Grande do Sul,South
+SC,Santa Catarina,Santa Catarina,South
+SE,Sergipe,Sergipe,Northeast
+SP,Sao Paulo,São Paulo,Southeast
+TO,Tocantins,Tocantins,North
