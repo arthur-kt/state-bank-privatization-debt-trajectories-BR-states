@@ -1,0 +1,11 @@
+lb,ub,method,Delta,Mbar,target,target_label
+-0.01357908802867816,0.014150839103569873,C-LF,DeltaRM,0,immediate,Average effect at k = 0 to 1
+-0.02844461597586266,0.032732749037550524,C-LF,DeltaRM,0.5,immediate,Average effect at k = 0 to 1
+-0.05245816112131457,0.05760392079533999,C-LF,DeltaRM,1,immediate,Average effect at k = 0 to 1
+-0.07790108395399575,0.08304684362802117,C-LF,DeltaRM,1.5,immediate,Average effect at k = 0 to 1
+-0.10362988232412279,0.10877564199814824,C-LF,DeltaRM,2,immediate,Average effect at k = 0 to 1
+-0.07111616558679745,0.005164861187867964,C-LF,DeltaRM,0,long_run,Average effect at k = 4 to 8
+-0.15931610279500433,0.10289992674290804,C-LF,DeltaRM,0.5,long_run,Average effect at k = 4 to 8
+-0.2777106131015163,0.22208903107832284,C-LF,DeltaRM,1,long_run,Average effect at k = 4 to 8
+-0.39689971743693103,0.3428673234715431,C-LF,DeltaRM,1.5,long_run,Average effect at k = 4 to 8
+-0.39689971743693103,0.39689971743693103,C-LF,DeltaRM,2,long_run,Average effect at k = 4 to 8

@@ -1,0 +1,83 @@
+region_set,h,group,events,debt_to_gdp
+north_northeast,-5,Bank retained,1,0.14489425228222053
+north_northeast,-5,Lost bank control,1,0.2731937205347706
+north_northeast,-4,Bank retained,4,0.13765371982895477
+north_northeast,-4,Lost bank control,4,0.23622981978149138
+north_northeast,-3,Bank retained,10,0.1329448065232332
+north_northeast,-3,Lost bank control,10,0.17650774667871447
+north_northeast,-2,Bank retained,12,0.12151325846672151
+north_northeast,-2,Lost bank control,12,0.1703203157267824
+north_northeast,-1,Bank retained,13,0.1220594471650196
+north_northeast,-1,Lost bank control,13,0.181921950007397
+north_northeast,0,Bank retained,13,0.12752877334152407
+north_northeast,0,Lost bank control,13,0.21610795258946122
+north_northeast,1,Bank retained,13,0.1248249734249079
+north_northeast,1,Lost bank control,13,0.21699048802350207
+north_northeast,2,Bank retained,13,0.11910452101445575
+north_northeast,2,Lost bank control,13,0.21523584740348956
+north_northeast,3,Bank retained,13,0.11453188837282065
+north_northeast,3,Lost bank control,13,0.20273171919911118
+north_northeast,4,Bank retained,13,0.10711902924867515
+north_northeast,4,Lost bank control,13,0.18572326239454712
+north_northeast,5,Bank retained,13,0.10471214535849556
+north_northeast,5,Lost bank control,13,0.1708101960293096
+north_northeast,6,Bank retained,13,0.09548444819795435
+north_northeast,6,Lost bank control,13,0.15692952206293254
+north_northeast,7,Bank retained,13,0.08607216640362657
+north_northeast,7,Lost bank control,13,0.1398418973511974
+north_northeast,8,Bank retained,13,0.07566357455343066
+north_northeast,8,Lost bank control,13,0.12307754433840495
+northeast,-5,Bank retained,1,0.2065916635767468
+northeast,-5,Lost bank control,1,0.2731937205347706
+northeast,-4,Bank retained,4,0.19105093953450095
+northeast,-4,Lost bank control,4,0.23622981978149138
+northeast,-3,Bank retained,6,0.16387592611188948
+northeast,-3,Lost bank control,6,0.20201674659425936
+northeast,-2,Bank retained,7,0.15303759901038574
+northeast,-2,Lost bank control,7,0.19596589382106766
+northeast,-1,Bank retained,8,0.16020866522920243
+northeast,-1,Lost bank control,8,0.22015615515476317
+northeast,0,Bank retained,8,0.1546686934738508
+northeast,0,Lost bank control,8,0.23583603627902983
+northeast,1,Bank retained,8,0.14924495724184497
+northeast,1,Lost bank control,8,0.2454450631651829
+northeast,2,Bank retained,8,0.14469255921636387
+northeast,2,Lost bank control,8,0.25345113199330627
+northeast,3,Bank retained,8,0.13686289299782028
+northeast,3,Lost bank control,8,0.2285116367407713
+northeast,4,Bank retained,8,0.13543392891011188
+northeast,4,Lost bank control,8,0.21032819447985215
+northeast,5,Bank retained,8,0.13028849404124193
+northeast,5,Lost bank control,8,0.19282468494332
+northeast,6,Bank retained,8,0.11900369360747835
+northeast,6,Lost bank control,8,0.17020181907798182
+northeast,7,Bank retained,8,0.10810334790251531
+northeast,7,Lost bank control,8,0.1516973883367382
+northeast,8,Bank retained,8,0.09508211773114127
+northeast,8,Lost bank control,8,0.13363513077996741
+south_southeast,-4,Bank retained,2,0.1086633054992029
+south_southeast,-4,Lost bank control,2,0.09082298592423545
+south_southeast,-3,Bank retained,2,0.11725366868799612
+south_southeast,-3,Lost bank control,2,0.08607025166768578
+south_southeast,-2,Bank retained,3,0.13674713906099997
+south_southeast,-2,Lost bank control,3,0.11672673760943428
+south_southeast,-1,Bank retained,5,0.13423900559898666
+south_southeast,-1,Lost bank control,5,0.15041521703000196
+south_southeast,0,Bank retained,5,0.14245344208233715
+south_southeast,0,Lost bank control,5,0.1554027928703844
+south_southeast,1,Bank retained,5,0.16203535432049423
+south_southeast,1,Lost bank control,5,0.1721022148448091
+south_southeast,2,Bank retained,5,0.17150506255794712
+south_southeast,2,Lost bank control,5,0.18066370278218855
+south_southeast,3,Bank retained,5,0.1627337568704762
+south_southeast,3,Lost bank control,5,0.17449045681360983
+south_southeast,4,Bank retained,5,0.1624864012287162
+south_southeast,4,Lost bank control,5,0.17574993305635817
+south_southeast,5,Bank retained,5,0.15889634019728885
+south_southeast,5,Lost bank control,5,0.17538211776019835
+south_southeast,6,Bank retained,5,0.14508221038577448
+south_southeast,6,Lost bank control,5,0.16976862758213848
+south_southeast,7,Bank retained,5,0.13534178368438246
+south_southeast,7,Lost bank control,5,0.15686195966868177
+south_southeast,8,Bank retained,5,0.12963659816716397
+south_southeast,8,Lost bank control,5,0.1473675160813246

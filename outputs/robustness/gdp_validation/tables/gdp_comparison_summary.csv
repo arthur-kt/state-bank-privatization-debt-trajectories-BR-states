@@ -1,0 +1,13 @@
+metric,value
+State-year observations,297
+Correlation between GDP levels,0.9991018417561796
+Correlation between annual GDP growth rates,0.888659569653386
+Correlation between debt-to-GDP levels,0.9923216266508154
+Correlation between annual debt-to-GDP changes,0.9689868608726127
+Mean GDP revision (%),2.5512819957423356
+Median absolute GDP revision (%),4.113865695166075
+Maximum absolute GDP revision (%),18.078406002160886
+Mean absolute debt-ratio difference (percentage points),0.7264214632308987
+Maximum absolute debt-ratio difference (percentage points),6.778105063067791
+Maximum annual share-sum error (percentage points),9.947598300641403e-14
+Maximum SIDRA vs direct-release difference (%),0.2748600868641926

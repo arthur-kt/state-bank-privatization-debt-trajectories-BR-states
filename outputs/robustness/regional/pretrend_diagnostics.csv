@@ -1,0 +1,7 @@
+region_set,method,coefficients,mean_estimate_pp,maximum_absolute_estimate_pp,individually_significant_5pct
+north_northeast,Sun-Abraham,4,-3.438946138003189,4.26172628156131,2
+north_northeast,TWFE,4,3.664224501305617,8.547806518249716,0
+northeast,Sun-Abraham,4,-3.839813945972252,6.5172301584320556,3
+northeast,TWFE,4,4.566576779889142,9.184573807569114,0
+south_southeast,Sun-Abraham,4,-0.2213212182032121,2.4834949357580594,0
+south_southeast,TWFE,4,-0.27424793589843577,2.526294432120324,0

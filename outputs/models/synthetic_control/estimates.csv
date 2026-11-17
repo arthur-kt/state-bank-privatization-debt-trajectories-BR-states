@@ -1,0 +1,2 @@
+method,outcome,sample_id,estimate,std.error,p.value,conf.low,conf.high,estimate_display,conf_low_display,conf_high_display
+Synthetic control: PB,debt_to_gdp,synth_PB_ES-PA-RS-SE_1996_2012_2002,-0.0751983591284177,NA,NA,NA,NA,-7.51983591284177,NA,NA

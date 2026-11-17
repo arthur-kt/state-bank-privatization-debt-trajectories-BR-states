@@ -1,0 +1,3 @@
+lb,ub,method,Delta,target,target_label
+-0.013747197525653567,0.014240075059219147,Original,NA,immediate,Average effect at k = 0 to 1
+-0.07160355094241053,0.006187364222640358,Original,NA,long_run,Average effect at k = 4 to 8

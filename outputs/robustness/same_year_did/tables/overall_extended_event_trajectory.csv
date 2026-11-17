@@ -1,0 +1,29 @@
+relative_year,group_label,mean_debt_to_gdp,contributing_cohorts
+-2,Retained-bank controls,0.13175565911161755,4
+-2,Same-year event states,0.1857114359973024,4
+-1,Retained-bank controls,0.13656405067049082,4
+-1,Same-year event states,0.21321251347457013,4
+0,Retained-bank controls,0.14321351448375588,4
+0,Same-year event states,0.2254624453137664,4
+1,Retained-bank controls,0.147500254787678,4
+1,Same-year event states,0.22959004821893236,4
+2,Retained-bank controls,0.14200343880431626,4
+2,Same-year event states,0.21715454305836865,4
+3,Retained-bank controls,0.13759411904077049,4
+3,Same-year event states,0.20649379163179826,4
+4,Retained-bank controls,0.13134948100494875,4
+4,Same-year event states,0.19591333413542544,4
+5,Retained-bank controls,0.12147866848256023,4
+5,Same-year event states,0.18245419917404387,4
+6,Retained-bank controls,0.11357199466873785,4
+6,Same-year event states,0.1662846325028643,4
+7,Retained-bank controls,0.10458527893214903,4
+7,Same-year event states,0.1525335586138436,4
+8,Retained-bank controls,0.09677929547174675,4
+8,Same-year event states,0.14052792331147732,4
+9,Retained-bank controls,0.08987303135053067,4
+9,Same-year event states,0.13116608436014912,4
+10,Retained-bank controls,0.08532888883771848,4
+10,Same-year event states,0.12835149429803996,4
+11,Retained-bank controls,0.08308126778743401,4
+11,Same-year event states,0.12010655721630331,4

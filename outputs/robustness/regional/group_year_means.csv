@@ -1,0 +1,103 @@
+region_set,year,group,states,debt_to_gdp
+north_northeast,1996,Bank retained,2,0.14489425228222053
+north_northeast,1996,Lost bank control,13,0.17520120830830457
+north_northeast,1997,Bank retained,2,0.11593212246915749
+north_northeast,1997,Lost bank control,13,0.17014166767020902
+north_northeast,1998,Bank retained,2,0.11228618413153649
+north_northeast,1998,Lost bank control,13,0.199561951739577
+north_northeast,1999,Bank retained,2,0.1359193098266627
+north_northeast,1999,Lost bank control,13,0.23649875559300776
+north_northeast,2000,Bank retained,2,0.1285392816555122
+north_northeast,2000,Lost bank control,13,0.21853305235545273
+north_northeast,2001,Bank retained,2,0.11623585878106965
+north_northeast,2001,Lost bank control,13,0.2094325949611758
+north_northeast,2002,Bank retained,2,0.11865658446265871
+north_northeast,2002,Lost bank control,13,0.22177996846086634
+north_northeast,2003,Bank retained,2,0.1019759939758436
+north_northeast,2003,Lost bank control,13,0.19422848205105098
+north_northeast,2004,Bank retained,2,0.11003606092553388
+north_northeast,2004,Lost bank control,13,0.1783014682737513
+north_northeast,2005,Bank retained,2,0.09703420589472661
+north_northeast,2005,Lost bank control,13,0.16067652813532565
+north_northeast,2006,Bank retained,2,0.08733033400871326
+north_northeast,2006,Lost bank control,13,0.14319821118557005
+north_northeast,2007,Bank retained,2,0.07505347335199568
+north_northeast,2007,Lost bank control,13,0.12333180855795152
+north_northeast,2008,Bank retained,2,0.06569126642389163
+north_northeast,2008,Lost bank control,13,0.11307926245526222
+north_northeast,2009,Bank retained,2,0.06453695589879652
+north_northeast,2009,Lost bank control,13,0.10885818917152472
+north_northeast,2010,Bank retained,2,0.0626224248750231
+north_northeast,2010,Lost bank control,13,0.10690241505135054
+north_northeast,2011,Bank retained,2,0.062386687828903
+north_northeast,2011,Lost bank control,13,0.09986465316191062
+north_northeast,2012,Bank retained,2,0.06152881579493213
+north_northeast,2012,Lost bank control,13,0.1124192752215836
+northeast,1996,Bank retained,1,0.2065916635767468
+northeast,1996,Lost bank control,8,0.19889877297945607
+northeast,1997,Bank retained,1,0.1444287674077634
+northeast,1997,Lost bank control,8,0.20142089047855147
+northeast,1998,Bank retained,1,0.13678592729455305
+northeast,1998,Lost bank control,8,0.225508421362836
+northeast,1999,Bank retained,1,0.16545621279676748
+northeast,1999,Lost bank control,8,0.2665359143368459
+northeast,2000,Bank retained,1,0.16070839786970073
+northeast,2000,Lost bank control,8,0.2505383838976586
+northeast,2001,Bank retained,1,0.14309723388585274
+northeast,2001,Lost bank control,8,0.2451107378458643
+northeast,2002,Bank retained,1,0.1410090204464796
+northeast,2002,Lost bank control,8,0.25991503365450147
+northeast,2003,Bank retained,1,0.1221543339532986
+northeast,2003,Lost bank control,8,0.22851832962109894
+northeast,2004,Bank retained,1,0.14261646947415382
+northeast,2004,Lost bank control,8,0.2070031870180553
+northeast,2005,Bank retained,1,0.12720710061950416
+northeast,2005,Lost bank control,8,0.17983800779295558
+northeast,2006,Bank retained,1,0.11229035712333718
+northeast,2006,Lost bank control,8,0.15790897781763008
+northeast,2007,Bank retained,1,0.09597347282335456
+northeast,2007,Lost bank control,8,0.13597631399183804
+northeast,2008,Bank retained,1,0.0825020804097265
+northeast,2008,Lost bank control,8,0.12552854990622825
+northeast,2009,Bank retained,1,0.0817062972304002
+northeast,2009,Lost bank control,8,0.11221866767413041
+northeast,2010,Bank retained,1,0.08219090107474075
+northeast,2010,Lost bank control,8,0.10321164286095645
+northeast,2011,Bank retained,1,0.08869101286429128
+northeast,2011,Lost bank control,8,0.09370326467661709
+northeast,2012,Bank retained,1,0.09045475023040347
+northeast,2012,Lost bank control,8,0.09275571998180245
+south_southeast,1996,Bank retained,2,0.1086633054992029
+south_southeast,1996,Lost bank control,5,0.12412252554672189
+south_southeast,1997,Bank retained,2,0.11725366868799612
+south_southeast,1997,Lost bank control,5,0.12930712399033148
+south_southeast,1998,Bank retained,2,0.1507890558418985
+south_southeast,1998,Lost bank control,5,0.14821321012276925
+south_southeast,1999,Bank retained,2,0.1683073741542657
+south_southeast,1999,Lost bank control,5,0.1833010143172588
+south_southeast,2000,Bank retained,2,0.16348540859689753
+south_southeast,2000,Lost bank control,5,0.17491124409717468
+south_southeast,2001,Bank retained,2,0.17014564288220424
+south_southeast,2001,Lost bank control,5,0.17586316943535246
+south_southeast,2002,Bank retained,2,0.1787125779421533
+south_southeast,2002,Lost bank control,5,0.19261193593845646
+south_southeast,2003,Bank retained,2,0.15827616213819082
+south_southeast,2003,Lost bank control,5,0.1799926190866745
+south_southeast,2004,Bank retained,2,0.14671407121850957
+south_southeast,2004,Lost bank control,5,0.17170591230323703
+south_southeast,2005,Bank retained,2,0.13939019148197343
+south_southeast,2005,Lost bank control,5,0.1594651647513364
+south_southeast,2006,Bank retained,2,0.13107232821699058
+south_southeast,2006,Lost bank control,5,0.15027239836851175
+south_southeast,2007,Bank retained,2,0.12194529225145984
+south_southeast,2007,Lost bank control,5,0.13980251263999657
+south_southeast,2008,Bank retained,2,0.11916513982744122
+south_southeast,2008,Lost bank control,5,0.1379140693852703
+south_southeast,2009,Bank retained,2,0.10943957379468532
+south_southeast,2009,Lost bank control,5,0.12948693246069318
+south_southeast,2010,Bank retained,2,0.100530124380952
+south_southeast,2010,Lost bank control,5,0.12121624189986897
+south_southeast,2011,Bank retained,2,0.0982589376720551
+south_southeast,2011,Lost bank control,5,0.11751064218700398
+south_southeast,2012,Bank retained,2,0.10534662205412487
+south_southeast,2012,Lost bank control,5,0.11920694623042054

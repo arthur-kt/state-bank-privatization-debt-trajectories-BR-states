@@ -1,0 +1,3 @@
+bank_group,states,observations,mean_gdp_revision_percent,mean_absolute_gdp_revision_percent,mean_debt_to_gdp_reference_2002_percent,mean_debt_to_gdp_reference_2010_percent,mean_debt_ratio_difference_pp
+Other states,22,242,2.6949894146945375,5.110668100147874,14.666125795280587,14.253940865916443,-0.4121849293641441
+Retained bank,5,55,1.9189693523526492,5.837334125516752,8.81811154261278,8.736812856937352,-0.08129868567542685

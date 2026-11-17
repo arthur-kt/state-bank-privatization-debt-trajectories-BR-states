@@ -1,0 +1,2 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high,method,outcome,sample_id,observations,states,estimate_display,conf_low_display,conf_high_display
+treated:post,0.011274991102623533,0.012351276183860593,0.9128604149712528,0.412959279847151,-0.023017649201002292,0.04556763140624936,Classic DiD: BA,debt_to_gdp,classic_BA-ES-PA-RS-SE_1996_2004_2000,45,5,1.1274991102623533,-2.3017649201002293,4.556763140624936

@@ -1,0 +1,2 @@
+treated_state,event_year,first_full_treatment_year,pre_years,donor_states,pre_rmspe,post_rmspe,average_post_gap,average_post_gap_percentage_points,post_pre_rmspe_ratio
+PB,2001,2002,1996-2000,"ES, PA, RS, SE",0.08112134186447793,0.08504812185901113,-0.0751983591284177,-7.51983591284177,1.0484062504919274
