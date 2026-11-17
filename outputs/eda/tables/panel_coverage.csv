@@ -1,0 +1,28 @@
+state_code,state_name,bank_group,first_year,last_year,observations
+AC,Acre,All other states,1996,2012,17
+AL,Alagoas,All other states,1996,2012,17
+AM,Amazonas,All other states,1996,2012,17
+AP,Amapa,All other states,1996,2012,17
+BA,Bahia,All other states,1996,2012,17
+CE,Ceara,All other states,1996,2012,17
+DF,Federal District,Retained state-owned commercial bank,1996,2012,17
+ES,Espirito Santo,Retained state-owned commercial bank,1996,2012,17
+GO,Goias,All other states,1996,2012,17
+MA,Maranhao,All other states,1996,2012,17
+MG,Minas Gerais,All other states,1996,2012,17
+MS,Mato Grosso do Sul,All other states,1996,2012,17
+MT,Mato Grosso,All other states,1996,2012,17
+PA,Para,Retained state-owned commercial bank,1996,2012,17
+PB,Paraiba,All other states,1996,2012,17
+PE,Pernambuco,All other states,1996,2012,17
+PI,Piaui,All other states,1996,2012,17
+PR,Parana,All other states,1996,2012,17
+RJ,Rio de Janeiro,All other states,1996,2012,17
+RN,Rio Grande do Norte,All other states,1996,2012,17
+RO,Rondonia,All other states,1996,2012,17
+RR,Roraima,All other states,1996,2012,17
+RS,Rio Grande do Sul,Retained state-owned commercial bank,1996,2012,17
+SC,Santa Catarina,All other states,1996,2012,17
+SE,Sergipe,Retained state-owned commercial bank,1996,2012,17
+SP,Sao Paulo,All other states,1996,2012,17
+TO,Tocantins,All other states,1996,2012,17

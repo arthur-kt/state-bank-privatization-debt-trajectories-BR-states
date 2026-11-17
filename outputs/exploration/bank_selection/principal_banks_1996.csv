@@ -1,0 +1,28 @@
+state_code,current_selected_bank,event_year,event_type,principal_by_assets,assets_brl,share_all_listed,share_eligible,printed_page,coverage
+AC,BANACRE,1999,liquidation,BANACRE,125985635.56,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+AL,PRODUBAN,1997,liquidation,PRODUBAN,80853509.91,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+AM,BEA,1999,federalization,BEA,405189889.26,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+AP,BANAP,1999,liquidation,BANAP,24142179.93,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+BA,BANEB,1999,direct_sale,BANEB,2417222652.45,0.8149907697990761,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+CE,BEC,1999,federalization,BEC,911552386.42,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+DF,BRB,NA,retained,BRB,1258097541.65,1,1,20,Common 1996 reference; no exit event
+ES,BANESTES,NA,retained,BANESTES,1282692577.67,0.8441876212830538,1,20,Common 1996 reference; no exit event
+GO,BEG,1999,federalization,BEG,761087162.1,0.9910415467790515,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+MA,BEM,2000,federalization,BEM,222083347.77,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+MG,CREDIREAL / BEMGE,1998,direct_sale,CREDIREAL,8454444796.99,0.7044547989070056,0.7595595733959077,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+MS,NA,NA,no_comparable_event,NA,NA,NA,NA,NA,No comparable own state bank
+MT,BEMAT,1998,liquidation,BEMAT,74696052.86,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+PA,BANPARA,NA,retained,BANPARA,310064874.91,1,1,20,Common 1996 reference; no exit event
+PB,PARAIBAN,2001,direct_sale,PARAIBAN,137044323.35,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+PE,BANDEPE,1998,direct_sale,BANDEPE,591757862.46,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+PI,BEP,2000,federalization,BEP,97163587.83,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+PR,BANESTADO,2000,direct_sale,BANESTADO,6114220584.68,1,1,20,1996 precedes selected exit; may follow earlier intervention or negotiations
+RJ,BANERJ,1997,direct_sale,BANERJ,8003132632.11,1,1,21,1996 precedes selected exit; may follow earlier intervention or negotiations
+RN,BANDERN / BDRN,2000,liquidation,NA,NA,NA,NA,NA,No 1996 operating-bank observation; earlier liquidation predates panel
+RO,BERON,1998,liquidation,BERON,157204893.52,0.731575697853337,1,21,1996 precedes selected exit; may follow earlier intervention or negotiations
+RR,BANER,1999,liquidation,BANER,36359995.36,1,1,21,1996 precedes selected exit; may follow earlier intervention or negotiations
+RS,BANRISUL,NA,retained,BANRISUL,9881858714.7,0.8859462728216285,0.8859462728216285,21,Common 1996 reference; no exit event
+SC,BESC,2000,federalization,BESC,2465039625.69,0.8805827635755122,1,21,1996 precedes selected exit; may follow earlier intervention or negotiations
+SE,BANESE,NA,retained,BANESE,246386378.03,1,1,21,Common 1996 reference; no exit event
+SP,BANESPA,1997,federalization,BANESPA,62770029309.61,0.8581223769788328,0.8581223769788328,21,1996 precedes selected exit; may follow earlier intervention or negotiations
+TO,NA,NA,no_comparable_event,NA,NA,NA,NA,NA,No comparable own state bank

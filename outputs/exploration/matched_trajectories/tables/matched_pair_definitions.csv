@@ -1,0 +1,6 @@
+retained_state,treated_state,matching_distance,treated_bank,treated_event_type,pair_event_year,pair_first_full_treatment_year,pair_label,includes_federal_district
+DF,PE,1.3910012412018835,BANDEPE,direct_sale,1998,1999,DF vs PE,TRUE
+ES,SC,0.8493232938129686,BESC,federalization,2000,2001,ES vs SC,FALSE
+PA,AM,0.7191726246350787,BEA,federalization,1999,2000,PA vs AM,FALSE
+RS,MG,0.4857149976132147,CREDIREAL / BEMGE,direct_sale,1998,1999,RS vs MG,FALSE
+SE,RO,0.9788312559559406,BERON,liquidation,1998,1999,SE vs RO,FALSE

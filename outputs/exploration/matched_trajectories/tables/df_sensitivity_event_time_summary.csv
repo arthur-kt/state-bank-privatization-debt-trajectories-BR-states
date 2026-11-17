@@ -1,0 +1,57 @@
+sample,assigned_event_time,pair_role,states,mean_debt_to_gdp
+All five matched pairs,-5,Bank retained,1,0.06062624575604365
+All five matched pairs,-5,Lost bank control,1,0.12532219367826333
+All five matched pairs,-4,Bank retained,2,0.07591530627828352
+All five matched pairs,-4,Lost bank control,2,0.11489337692798711
+All five matched pairs,-3,Bank retained,5,0.11735378425839814
+All five matched pairs,-3,Lost bank control,5,0.13540201397705579
+All five matched pairs,-2,Bank retained,5,0.10864737239949603
+All five matched pairs,-2,Lost bank control,5,0.12529199914612615
+All five matched pairs,-1,Bank retained,5,0.11341493910578407
+All five matched pairs,-1,Lost bank control,5,0.18328662009082763
+All five matched pairs,0,Bank retained,5,0.12481258879801876
+All five matched pairs,0,Lost bank control,5,0.19026830603070355
+All five matched pairs,1,Bank retained,5,0.12310496200572976
+All five matched pairs,1,Lost bank control,5,0.18768768362384006
+All five matched pairs,2,Bank retained,5,0.11695231347248661
+All five matched pairs,2,Lost bank control,5,0.18017970430136687
+All five matched pairs,3,Bank retained,5,0.11317973286768886
+All five matched pairs,3,Lost bank control,5,0.17570374028555474
+All five matched pairs,4,Bank retained,5,0.10074141824873005
+All five matched pairs,4,Lost bank control,5,0.15513391714054403
+All five matched pairs,5,Bank retained,5,0.10067344717128521
+All five matched pairs,5,Lost bank control,5,0.14296142813305873
+All five matched pairs,6,Bank retained,5,0.0946309106330479
+All five matched pairs,6,Lost bank control,5,0.12581450489331647
+All five matched pairs,7,Bank retained,5,0.08710999247569558
+All five matched pairs,7,Lost bank control,5,0.11879003122245761
+All five matched pairs,8,Bank retained,5,0.08021495955273784
+All five matched pairs,8,Lost bank control,5,0.10946131390130162
+Excluding DF-PE,-5,Bank retained,1,0.06062624575604365
+Excluding DF-PE,-5,Lost bank control,1,0.12532219367826333
+Excluding DF-PE,-4,Bank retained,2,0.07591530627828352
+Excluding DF-PE,-4,Lost bank control,2,0.11489337692798711
+Excluding DF-PE,-3,Bank retained,4,0.14077719249829468
+Excluding DF-PE,-3,Lost bank control,4,0.1375026055464968
+Excluding DF-PE,-2,Bank retained,4,0.1310935396479459
+Excluding DF-PE,-2,Lost bank control,4,0.13130382569422464
+Excluding DF-PE,-1,Bank retained,4,0.1365445295803394
+Excluding DF-PE,-1,Lost bank control,4,0.19187740337362486
+Excluding DF-PE,0,Bank retained,4,0.15012392694822488
+Excluding DF-PE,0,Lost bank control,4,0.19394938287804786
+Excluding DF-PE,1,Bank retained,4,0.14775865801608412
+Excluding DF-PE,1,Lost bank control,4,0.1930143923324712
+Excluding DF-PE,2,Bank retained,4,0.1396776433514123
+Excluding DF-PE,2,Lost bank control,4,0.18630679268214562
+Excluding DF-PE,3,Bank retained,4,0.13401825510506765
+Excluding DF-PE,3,Lost bank control,4,0.18065710840970775
+Excluding DF-PE,4,Bank retained,4,0.11930578642712422
+Excluding DF-PE,4,Lost bank control,4,0.1593914748745453
+Excluding DF-PE,5,Bank retained,4,0.11970275834191374
+Excluding DF-PE,5,Lost bank control,4,0.1474473653868022
+Excluding DF-PE,6,Bank retained,4,0.11302679958051354
+Excluding DF-PE,6,Lost bank control,4,0.13109009124495744
+Excluding DF-PE,7,Bank retained,4,0.10408054213497983
+Excluding DF-PE,7,Lost bank control,4,0.126054152204931
+Excluding DF-PE,8,Bank retained,4,0.09607446163473433
+Excluding DF-PE,8,Lost bank control,4,0.11774665574830975

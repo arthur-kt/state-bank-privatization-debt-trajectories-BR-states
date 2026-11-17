@@ -1,0 +1,69 @@
+year,bank_group,variable,value_brl,index_1996
+1996,Retained state-owned commercial bank,Average nominal financial debt,2637314772.86,100
+1997,Retained state-owned commercial bank,Average nominal financial debt,2971639260.0499997,112.676700203952
+1998,Retained state-owned commercial bank,Average nominal financial debt,3589863607.91,136.11813215670958
+1999,Retained state-owned commercial bank,Average nominal financial debt,4391665917.144,166.52035480700386
+2000,Retained state-owned commercial bank,Average nominal financial debt,4822098074.6779995,182.84120364778227
+2001,Retained state-owned commercial bank,Average nominal financial debt,5434582244.5060005,206.06498323340227
+2002,Retained state-owned commercial bank,Average nominal financial debt,6624184957.302,251.17157138275505
+2003,Retained state-owned commercial bank,Average nominal financial debt,6964755034.794,264.0850878502139
+2004,Retained state-owned commercial bank,Average nominal financial debt,7701208618.766,292.009459698075
+2005,Retained state-owned commercial bank,Average nominal financial debt,7917503555.966,300.21079157646284
+2006,Retained state-owned commercial bank,Average nominal financial debt,8221048680.522,311.720419766458
+2007,Retained state-owned commercial bank,Average nominal financial debt,8597441538.056,325.9922412952103
+2008,Retained state-owned commercial bank,Average nominal financial debt,9584846115.78,363.4320110142122
+2009,Retained state-owned commercial bank,Average nominal financial debt,9325824598.024,353.61060022087304
+2010,Retained state-owned commercial bank,Average nominal financial debt,10322196667.252,391.39039349702784
+2011,Retained state-owned commercial bank,Average nominal financial debt,10889478367.492,412.9002150047889
+2012,Retained state-owned commercial bank,Average nominal financial debt,11951716274.380001,453.1774666176508
+1996,Retained state-owned commercial bank,Average nominal state GDP,26309524425.460052,100
+1997,Retained state-owned commercial bank,Average nominal state GDP,29252009212.678276,111.18410481175685
+1998,Retained state-owned commercial bank,Average nominal state GDP,30808578309.7325,117.10047590187018
+1999,Retained state-owned commercial bank,Average nominal state GDP,32984864451.528114,125.37233253676092
+2000,Retained state-owned commercial bank,Average nominal state GDP,35425636500.16646,134.64947494788098
+2001,Retained state-owned commercial bank,Average nominal state GDP,39701492735.57534,150.90159781510803
+2002,Retained state-owned commercial bank,Average nominal state GDP,44698881080.07813,169.89619560292195
+2003,Retained state-owned commercial bank,Average nominal state GDP,51869656838.565895,197.15163223692096
+2004,Retained state-owned commercial bank,Average nominal state GDP,59300493631.995155,225.39553612990943
+2005,Retained state-owned commercial bank,Average nominal state GDP,64903192749.33619,246.69086259320054
+2006,Retained state-owned commercial bank,Average nominal state GDP,71745394774.24443,272.69742171703996
+2007,Retained state-owned commercial bank,Average nominal state GDP,80660669097.83049,306.5835314749139
+2008,Retained state-owned commercial bank,Average nominal state GDP,93001340963.62851,353.48925149566736
+2009,Retained state-owned commercial bank,Average nominal state GDP,98456620045.39627,374.22424842510105
+2010,Retained state-owned commercial bank,Average nominal state GDP,117258100335.1916,445.68688676759007
+2011,Retained state-owned commercial bank,Average nominal state GDP,128075700597.92822,486.80355648689635
+2012,Retained state-owned commercial bank,Average nominal state GDP,135010835179.79076,513.1633434207541
+1996,All other states,Average nominal financial debt,4968959706.416819,100
+1997,All other states,Average nominal financial debt,5497883677.072727,110.6445614757726
+1998,All other states,Average nominal financial debt,6402410673.143636,128.8481100958755
+1999,All other states,Average nominal financial debt,7902761284.818636,159.04257131755693
+2000,All other states,Average nominal financial debt,8579285793.986818,172.65758430094925
+2001,All other states,Average nominal financial debt,9525256430.719545,191.6951835696879
+2002,All other states,Average nominal financial debt,11682208197.47,235.10370153301548
+2003,All other states,Average nominal financial debt,12495128290.726818,251.4636670245253
+2004,All other states,Average nominal financial debt,13651314035.493637,274.73183205459674
+2005,All other states,Average nominal financial debt,13787319249.242727,277.4689283843065
+2006,All other states,Average nominal financial debt,14223892255.58909,286.2549325409226
+2007,All other states,Average nominal financial debt,14765005447.00909,297.1448013140828
+2008,All other states,Average nominal financial debt,16425452986.031363,330.5612030787822
+2009,All other states,Average nominal financial debt,16153983734.123638,325.0979015439126
+2010,All other states,Average nominal financial debt,17906049421.96909,360.3581127624272
+2011,All other states,Average nominal financial debt,19096338802.52091,384.31261130695555
+2012,All other states,Average nominal financial debt,20660521797.535454,415.7916952084529
+1996,All other states,Average nominal state GDP,32382636781.436615,100
+1997,All other states,Average nominal state GDP,36040298674.92946,111.29513300037878
+1998,All other states,Average nominal state GDP,37510584424.30354,115.83548516285904
+1999,All other states,Average nominal state GDP,40912517706.429504,126.34090911918159
+2000,All other states,Average nominal state GDP,45561537159.053055,140.697428274807
+2001,All other states,Average nominal state GDP,50164889340.56802,154.9129234878276
+2002,All other states,Average nominal state GDP,57014880163.61861,176.06620655518222
+2003,All other states,Average nominal state GDP,65481791354.87135,202.21266043538762
+2004,All other states,Average nominal state GDP,74772540447.27386,230.9031872603324
+2005,All other states,Average nominal state GDP,82851060375.15088,255.8502599227662
+2006,All other states,Average nominal state GDP,91398026013.80812,282.2439279132518
+2007,All other states,Average nominal state GDP,102638235432.31137,316.9545337677655
+2008,All other states,Average nominal state GDP,116690762981.48973,360.3497879715059
+2009,All other states,Average nominal state GDP,124869134216.95537,385.6052089264601
+2010,All other states,Average nominal state GDP,144717925904.72922,446.8997595269603
+2011,All other states,Average nominal state GDP,159210674252.4912,491.6544484226773
+2012,All other states,Average nominal state GDP,168956355504.5932,521.7498397210435
